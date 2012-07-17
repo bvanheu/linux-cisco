@@ -1,0 +1,7 @@
+How to build?
+~~~~~~~~~~~~~
+> elf2mzip
+$ gcc -l zip -o elf2mzip crc16.c mzip.c elf2mzip.c
+
+> readmzip
+$ gcc -l zip -o readmzip crc16.c mzip.c readmzip.c

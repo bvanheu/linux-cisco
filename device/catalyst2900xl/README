@@ -1,0 +1,10 @@
+Information on the Cisco Catalyst 2900XL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Architecture
+~~~~~~~~~~~~
+CPU: PowerPC 403GA
+
+Requirement
+~~~~~~~~~~~
+* You need a PowerPC toolchain
